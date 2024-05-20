@@ -144,7 +144,7 @@
 	url = https://github.com/LexiFi/gen_js_api.git
 [submodule "rev-deps/gospel"]
 	path = rev-deps/gospel
-	url = git://github.com/pitag-ha/gospel
+	url = https://github.com/pitag-ha/gospel
 [submodule "rev-deps/hack_parallel"]
 	path = rev-deps/hack_parallel
 	url = https://github.com/rvantonder/hack_parallel.git
@@ -255,7 +255,7 @@
 	url = https://github.com/ocaml-ppx/ppx_deriving_protobuf.git
 [submodule "rev-deps/ppx_deriving_rpc"]
 	path = rev-deps/ppx_deriving_rpc
-	url = git://github.com/mirage/ocaml-rpc
+	url = https://github.com/mirage/ocaml-rpc
 [submodule "rev-deps/ppx_deriving_scad"]
 	path = rev-deps/ppx_deriving_scad
 	url = https://github.com/geoffder/ppx_deriving_scad.git
@@ -315,7 +315,7 @@
 	url = https://github.com/mirage/repr.git
 [submodule "rev-deps/ppx_seq"]
 	path = rev-deps/ppx_seq
-	url = https://git.sr.ht/~hyphens/ppx_seq
+	url = https://git.sr.ht/~hyphen/ppx_seq
 [submodule "rev-deps/ppx_show"]
 	path = rev-deps/ppx_show
 	url = https://github.com/thierry-martinez/ppx_show.git
@@ -324,7 +324,7 @@
 	url = https://github.com/bloomberg/ppx_string_interpolation.git
 [submodule "rev-deps/ppx_units"]
 	path = rev-deps/ppx_units
-	url = git://github.com/SGrondin/ppx_units
+	url = https://github.com/SGrondin/ppx_units
 [submodule "rev-deps/ppx_yojson"]
 	path = rev-deps/ppx_yojson
 	url = https://github.com/NathanReb/ppx_yojson.git
